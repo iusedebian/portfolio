@@ -7,6 +7,7 @@ import "../global.css";
 export const metadata: Metadata = {
   title: "Onța Nicolae",
   description: "Web dev enthusiast. Founder of TrainSync.",
+  colorScheme: "dark",
   openGraph: {
     title: "Onța Nicolae",
     description: "Web dev enthusiast. Founder of TrainSync.",
